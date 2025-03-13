@@ -1,0 +1,1 @@
+JSON Theme for Power BI based on [Nord](https://github.com/nordtheme/nord) Theme 
