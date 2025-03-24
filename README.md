@@ -1,3 +1,6 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/alisonpezzott/PowerBI-Themes?style=flat&color=yellow&link=https%3A%2F%2Fgithub.com%2Falisonpezzott%2FPowerBI-Themes%2Fblob%2Fmain%2F)
+![GitHub forks](https://img.shields.io/github/forks/alisonpezzott/PowerBI-Themes?style=flat&color=blue&link=https%3A%2F%2Fgithub.com%2Falisonpezzott%2FPowerBI-Themes%2Fedit%2Fmain%2F) 
+
 # Power BI Themes  
 This repository gathers my favorite themes, tips, and tools for designing reports in Power BI.
 
